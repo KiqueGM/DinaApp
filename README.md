@@ -1,3 +1,1 @@
-# DinaAppRepo
-# DinaApp
 # DinaApp
